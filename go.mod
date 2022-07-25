@@ -16,9 +16,9 @@ require (
 	github.com/go-openapi/runtime v0.24.0
 	github.com/percona/pmm v0.0.0-20220520150831-23069cdf1bb8
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.7.1
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
